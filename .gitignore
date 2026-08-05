@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
+env/
+venv/
+*.mp4
+desktop.ini
